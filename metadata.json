@@ -1,0 +1,6 @@
+{
+  "name": "갓생 루틴 트래커 (Godsaeng Routine)",
+  "description": "매일의 습관과 루틴을 기록하고 스트릭과 레벨, 통계 및 캘린더로 성장하는 갓생 데일리 루틴 앱",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
